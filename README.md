@@ -1,6 +1,4 @@
-Based on your GitHub project structure shown in the image, here's a tailored `README.md` file for your **basic and beginner-friendly npm package** that prints a full name.
-
----
+### First NPM Package
 
 ```markdown
 # 👋 Hello Name Printer
@@ -95,7 +93,4 @@ More advanced features and packages will follow — stay tuned!
 
 ---
 
-```
 
-Let me know if you'd like this file to include badges (e.g. npm version, license, build status), or to add demo GIFs or links to documentation.
-```
