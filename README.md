@@ -11,19 +11,6 @@ This project is designed as a minimal starter example for publishing your first 
 
 ## 📁 Project Structure
 
-```
-
-.
-├── dist/              # Compiled JavaScript output
-├── node\_modules/      # Dependencies
-├── src/               # Source TypeScript files
-├── package.json       # Project metadata and scripts
-├── package-lock.json  # Dependency lock file
-├── tsconfig.json      # TypeScript configuration
-├── tsup.config.ts     # tsup bundler config
-
-````
-
 ---
 
 ## 📦 Installation
