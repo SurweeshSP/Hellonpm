@@ -1,0 +1,21 @@
+{
+  "name": "surweesh-say-hello",
+  "version": "1.0.2",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsup"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "surweeshsp",
+  "license": "ISC",
+  "type": "commonjs",
+  "description": "MIT",
+  "devDependencies": {
+    "tsup": "^8.5.0",
+    "typescript": "^5.8.3"
+  }
+}
