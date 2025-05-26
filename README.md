@@ -1,4 +1,4 @@
-### First NPM Package
+## **First NPM Package**
 
 ```markdown
 # 👋 Hello Name Printer
