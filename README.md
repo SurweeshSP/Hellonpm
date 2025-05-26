@@ -28,10 +28,19 @@ npm install surweesh-say-hello
 Import and use the function like this:
 
 ```js
-const helloName = require('surweesh-say-hello');
+const { sayHello } = require("surweesh-say-hello");
 
-helloName('Surweesh', 'Sprabakaran'); 
-// Output: Hello, Surweesh Sprabakaran!
+const testUser1 = {
+  firstname: "Surweesh",
+  lastname: "Sprabakaran",
+};
+
+const testUser2 = {
+  firstname: "John",
+};
+
+sayHello(testUser1);
+sayHello(testUser2);
 ```
 
 ---
